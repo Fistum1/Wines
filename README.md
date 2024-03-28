@@ -1,2 +1,0 @@
-# Wines
-Wine Recommendation API
